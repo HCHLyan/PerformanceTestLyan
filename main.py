@@ -165,3 +165,7 @@ while True:
         print("Invalid option. Try again.")
         
     opcion = input("Opción: ")
+
+# This program lets manage a basic and general student information using lists and dictionaries.
+# The user can create, read, update and delete student data.
+# Input validations were applied.
